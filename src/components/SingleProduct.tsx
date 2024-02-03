@@ -2,7 +2,6 @@ import type { VariantProps } from "tailwind-variants";
 import React from "react";
 import { useState } from "react";
 import { tv } from "tailwind-variants";
-// Import your components
 import { RadioGroup, Radio } from "@nextui-org/react";
 
 const item = tv({
